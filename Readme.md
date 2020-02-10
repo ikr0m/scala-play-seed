@@ -1,3 +1,5 @@
+This playframework scala seed is taken from https://github.com/playframework/play-scala-seed.g8 
+
 Run in dev mode
 -----------
 Download project and extract or clone.
